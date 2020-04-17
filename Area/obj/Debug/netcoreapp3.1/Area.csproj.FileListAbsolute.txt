@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\codebits-academy\html5\C#\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb
+C:\codebits-academy\html5\C#\Area\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache

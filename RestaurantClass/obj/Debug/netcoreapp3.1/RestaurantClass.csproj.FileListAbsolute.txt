@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\Area\restaurantclass\obj\Debug\netcoreapp3.1\RestaurantClass.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\Area\restaurantclass\obj\Debug\netcoreapp3.1\RestaurantClass.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\Area\restaurantclass\obj\Debug\netcoreapp3.1\RestaurantClass.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\Area\restaurantclass\obj\Debug\netcoreapp3.1\RestaurantClass.AssemblyInfo.cs
